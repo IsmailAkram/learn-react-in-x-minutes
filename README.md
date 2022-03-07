@@ -1,6 +1,8 @@
 I created a simple todo list via this YouTube tutorial from Web Dev Simplified: 
 https://youtu.be/hQAHSlTtcmY
 
+@19 minutes, I had to use import { v4 as uuidv4 } from 'uuid'; instead to resolve the key issue.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
