@@ -1,4 +1,4 @@
-I learned this via this YouTube tutorial from Web Dev Simplified
+I created a simple todo list via this YouTube tutorial from Web Dev Simplified: 
 https://youtu.be/hQAHSlTtcmY
 
 # Getting Started with Create React App
